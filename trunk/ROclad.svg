@@ -328,7 +328,7 @@ style='opacity:0.6;' >
   <path id='__line_Fusion' d='M 456 592 L 456 650 L 1010 650' stroke='#c11' marker-end='url(#__stop_Fusion)' />
   <path id='__line_Prometheus' d='M 864 652 L 864 710 L 1240 710' stroke='#c11' marker-end='url(#__stop_Prometheus)' />
   <path id='__line_D-Weiss' d='M 260 592 L 260 650 L 405 650' stroke='#c11' marker-end='url(#__stop_D-Weiss)' />
-  <path id='__line_darkWeiss' d='M 385 652 L 385 710 L 510 710' stroke='#c11' marker-end='url(#__stop_darkWeiss)' />
+  <path id='__line_darkWeiss' d='M 385 652 L 385 710 L 810 710' stroke='#c11' marker-end='url(#__stop_darkWeiss)' />
   <path id='__line_Vidar' d='M 510 712 L 510 770 L 918 770' stroke='#c11' marker-end='url(#__stop_Vidar)' />
   <path id='__line_Helios-Emu' d='M 1240 890 L 1759 890' stroke='#cc1' />
   <path id='__line_ASB' d='M 280 1008 L 280 950 L 1051 950' stroke='#c1c' marker-end='url(#__stop_ASB)' />
