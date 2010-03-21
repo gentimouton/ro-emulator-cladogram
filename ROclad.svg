@@ -355,6 +355,10 @@ style='opacity:0.6;' >
     <circle cx='706' cy='290' r='6' fill='#11c' stroke='none' />
     <circle cx='743' cy='290' r='6' fill='#11c' stroke='none' />
     <circle cx='979' cy='290' r='6' fill='#11c' stroke='none' />
+    <circle cx='1078' cy='290' r='6' fill='#11c' stroke='none' />
+    <circle cx='1309' cy='290' r='6' fill='#11c' stroke='none' />
+    <circle cx='1510' cy='290' r='6' fill='#11c' stroke='none' />
+    <circle cx='1911' cy='290' r='6' fill='#11c' stroke='none' />
   <circle id='__dot_Freya_040Yor_041' cx='691' cy='350' r='6' fill='#11c' stroke='none' />
     <circle cx='760' cy='350' r='6' fill='#11c' stroke='none' />
     <circle cx='1010' cy='350' r='6' fill='#11c' stroke='none' />
@@ -420,6 +424,10 @@ style='opacity:0.6;' >
     <a xlink:href='http://www.eathena.ws/board/index.php?showtopic=91829'><text x='290' y='711' style='text-anchor:middle;'>1.0 RC5</text></a>
     <a xlink:href='http://www.eathena.ws/board/index.php?showtopic=91829'><text x='290' y='748' style='text-anchor:middle;'>SVN open</text></a>
     <a xlink:href='http://www.eathena.ws/board/index.php?showtopic=91829'><text x='290' y='984' style='text-anchor:middle;'>Preview Release v1.0</text></a>
+    <a xlink:href='http://svn.eathena.ws/svn/ea/'><text x='290' y='1083' style='text-anchor:middle;'>r6000</text></a>
+    <a xlink:href='http://svn.eathena.ws/svn/ea/'><text x='290' y='1314' style='text-anchor:middle;'>r10000</text></a>
+    <a xlink:href='http://svn.eathena.ws/svn/ea/'><text x='290' y='1515' style='text-anchor:middle;'>r12000</text></a>
+    <a xlink:href='http://svn.eathena.ws/svn/ea/'><text x='290' y='1916' style='text-anchor:middle;'>r14000</text></a>
   <a xlink:href='https://ookoo.org/svn/freya/trunk/Changelog.txt'><text x='350' y='683' style='text-anchor:middle;' >Freya(Yor)</text></a>
     <a xlink:href='http://forum.asb-sakray.net/index.php?showtopic=30970'><text x='350' y='765' style='text-anchor:middle;'>Freya1.0</text></a>
     <a xlink:href='http://forum.asb-sakray.net/index.php?showtopic=30970'><text x='350' y='1015' style='text-anchor:middle;'>Freya2.0</text></a>
