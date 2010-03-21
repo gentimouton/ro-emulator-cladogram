@@ -1,0 +1,6 @@
+Windows:
+- download and install cygwin: http://www.cygwin.com/
+- download and make gnuclad: https://launchpad.net/gnuclad
+- in cygwin, go to the gnuclad directory and type 
+src/gnuclad.exe [path]/ROclad.csv svg [path]ROclad.conf
+- ROclad.svg file has appeared (viewable in Firefox)

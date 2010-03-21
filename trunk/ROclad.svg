@@ -1,0 +1,509 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<!-- Created with gnuclad experimental-59 -->
+
+<svg
+  xmlns='http://www.w3.org/2000/svg'
+  xmlns:svg='http://www.w3.org/2000/svg'
+  xmlns:xlink='http://www.w3.org/1999/xlink'
+  xmlns:inkscape='http://www.inkscape.org/namespaces/inkscape'
+  xmlns:sodipodi='http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:cc='http://creativecommons.org/ns#'
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  version='1.1'
+  width='1180'
+  height='1770'
+>
+
+<defs>
+
+  <linearGradient id='__yearline' x1='0' y1='0' x2='1' y2='0'>
+    <stop stop-color='#000' offset='0' stop-opacity='1' />
+    <stop stop-color='#000' offset='1' stop-opacity='1' />
+  </linearGradient>
+
+  <linearGradient id='__infobox_fill' x1='0' y1='0' x2='0' y2='1'>
+    <stop stop-color='#000' offset='0' stop-opacity='1' />
+    <stop stop-color='#333' offset='1' stop-opacity='1' />
+  </linearGradient>
+  <linearGradient id='__infobox_stroke' x1='0' y1='0' x2='0' y2='1'>
+    <stop stop-color='#333' offset='0' stop-opacity='1' />
+    <stop stop-color='#000' offset='1' stop-opacity='1' />
+  </linearGradient>
+  <filter id='__infobox_shadow' color-interpolation-filters='sRGB'>
+    <feGaussianBlur stdDeviation='5' />
+  </filter>
+
+
+  <circle id='__connectors_start' cx='0' cy='0' r='4' stroke='none' />
+  <marker id='__connector_0' stroke='none' markerUnits='userSpaceOnUse' style='overflow:visible;'>
+    <use xlink:href='#__connectors_start' fill='#11c'  />
+  </marker>
+  <marker id='__connector_1' stroke='none' markerUnits='userSpaceOnUse' style='overflow:visible;'>
+    <use xlink:href='#__connectors_start' fill='#cc1'  />
+  </marker>
+  <marker id='__connector_2' stroke='none' markerUnits='userSpaceOnUse' style='overflow:visible;'>
+    <use xlink:href='#__connectors_start' fill='#c11'  />
+  </marker>
+  <marker id='__connector_3' stroke='none' markerUnits='userSpaceOnUse' style='overflow:visible;'>
+    <use xlink:href='#__connectors_start' fill='#1c1'  />
+  </marker>
+
+  <line id='__fadeout' x1='0' y1='0' x2='3' y2='0' stroke-width='1' />
+  <linearGradient id='__fadeout_AthenaAdvanced' x1='0' y1='0' x2='3' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#11c' offset='0' stop-opacity='1' />
+    <stop stop-color='#11c' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_AthenaAdvanced' markerWidth='3' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' stroke='url(#__fadeout_AthenaAdvanced)' />
+  </marker>
+  <linearGradient id='__fadeout_jAthena' x1='0' y1='0' x2='3' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#11c' offset='0' stop-opacity='1' />
+    <stop stop-color='#11c' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_jAthena' markerWidth='3' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' stroke='url(#__fadeout_jAthena)' />
+  </marker>
+  <linearGradient id='__fadeout_Aurora' x1='0' y1='0' x2='3' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#11c' offset='0' stop-opacity='1' />
+    <stop stop-color='#11c' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_Aurora' markerWidth='3' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' stroke='url(#__fadeout_Aurora)' />
+  </marker>
+  <linearGradient id='__fadeout_Nezumi' x1='0' y1='0' x2='3' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#11c' offset='0' stop-opacity='1' />
+    <stop stop-color='#11c' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_Nezumi' markerWidth='3' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' stroke='url(#__fadeout_Nezumi)' />
+  </marker>
+  <linearGradient id='__fadeout_Freya_040Yor_041' x1='0' y1='0' x2='3' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#11c' offset='0' stop-opacity='1' />
+    <stop stop-color='#11c' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_Freya_040Yor_041' markerWidth='3' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' stroke='url(#__fadeout_Freya_040Yor_041)' />
+  </marker>
+  <linearGradient id='__fadeout_I-Athena' x1='0' y1='0' x2='3' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#1cc' offset='0' stop-opacity='1' />
+    <stop stop-color='#1cc' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_I-Athena' markerWidth='3' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' stroke='url(#__fadeout_I-Athena)' />
+  </marker>
+  <linearGradient id='__fadeout_XEVA_047AREBR' x1='0' y1='0' x2='3' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#1c1' offset='0' stop-opacity='1' />
+    <stop stop-color='#1c1' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_XEVA_047AREBR' markerWidth='3' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' stroke='url(#__fadeout_XEVA_047AREBR)' />
+  </marker>
+  <linearGradient id='__fadeout_YARE' x1='0' y1='0' x2='3' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#1c1' offset='0' stop-opacity='1' />
+    <stop stop-color='#1c1' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_YARE' markerWidth='3' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' stroke='url(#__fadeout_YARE)' />
+  </marker>
+  <linearGradient id='__fadeout_Odin' x1='0' y1='0' x2='3' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#1c1' offset='0' stop-opacity='1' />
+    <stop stop-color='#1c1' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_Odin' markerWidth='3' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' stroke='url(#__fadeout_Odin)' />
+  </marker>
+  <linearGradient id='__fadeout_PvPGN__YARE' x1='0' y1='0' x2='3' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#1c1' offset='0' stop-opacity='1' />
+    <stop stop-color='#1c1' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_PvPGN__YARE' markerWidth='3' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' stroke='url(#__fadeout_PvPGN__YARE)' />
+  </marker>
+  <linearGradient id='__fadeout_Athena' x1='0' y1='0' x2='3' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#ccc' offset='0' stop-opacity='1' />
+    <stop stop-color='#ccc' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_Athena' markerWidth='3' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' stroke='url(#__fadeout_Athena)' />
+  </marker>
+  <linearGradient id='__fadeout_Weiss' x1='0' y1='0' x2='3' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#c11' offset='0' stop-opacity='1' />
+    <stop stop-color='#c11' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_Weiss' markerWidth='3' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' stroke='url(#__fadeout_Weiss)' />
+  </marker>
+  <linearGradient id='__fadeout_eWeiss' x1='0' y1='0' x2='3' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#c11' offset='0' stop-opacity='1' />
+    <stop stop-color='#c11' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_eWeiss' markerWidth='3' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' stroke='url(#__fadeout_eWeiss)' />
+  </marker>
+  <linearGradient id='__fadeout_Fusion' x1='0' y1='0' x2='3' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#c11' offset='0' stop-opacity='1' />
+    <stop stop-color='#c11' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_Fusion' markerWidth='3' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' stroke='url(#__fadeout_Fusion)' />
+  </marker>
+  <linearGradient id='__fadeout_Prometheus' x1='0' y1='0' x2='3' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#c11' offset='0' stop-opacity='1' />
+    <stop stop-color='#c11' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_Prometheus' markerWidth='3' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' stroke='url(#__fadeout_Prometheus)' />
+  </marker>
+  <linearGradient id='__fadeout_D-Weiss' x1='0' y1='0' x2='3' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#c11' offset='0' stop-opacity='1' />
+    <stop stop-color='#c11' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_D-Weiss' markerWidth='3' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' stroke='url(#__fadeout_D-Weiss)' />
+  </marker>
+  <linearGradient id='__fadeout_darkWeiss' x1='0' y1='0' x2='3' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#c11' offset='0' stop-opacity='1' />
+    <stop stop-color='#c11' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_darkWeiss' markerWidth='3' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' stroke='url(#__fadeout_darkWeiss)' />
+  </marker>
+  <linearGradient id='__fadeout_Vidar' x1='0' y1='0' x2='3' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#c11' offset='0' stop-opacity='1' />
+    <stop stop-color='#c11' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_Vidar' markerWidth='3' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' stroke='url(#__fadeout_Vidar)' />
+  </marker>
+  <linearGradient id='__fadeout_ASB' x1='0' y1='0' x2='3' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#c1c' offset='0' stop-opacity='1' />
+    <stop stop-color='#c1c' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_ASB' markerWidth='3' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' stroke='url(#__fadeout_ASB)' />
+  </marker>
+  <linearGradient id='__fadeout_AEGIS' x1='0' y1='0' x2='3' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#c1c' offset='0' stop-opacity='1' />
+    <stop stop-color='#c1c' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_AEGIS' markerWidth='3' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' stroke='url(#__fadeout_AEGIS)' />
+  </marker>
+  <linearGradient id='__fadeout_UniAegis' x1='0' y1='0' x2='3' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#c1c' offset='0' stop-opacity='1' />
+    <stop stop-color='#c1c' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_UniAegis' markerWidth='3' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' stroke='url(#__fadeout_UniAegis)' />
+  </marker>
+
+<!-- BEGIN additional SVG images - definitions -->
+
+<!-- END additional SVG images - definitions -->
+
+</defs>
+
+<g id='orientation' transform='matrix(0,1,1,0,0,1)'><!-- BEGIN orientation transform -->
+
+<g inkscape:label='Background' inkscape:groupmode='layer' id='layer_background' >
+  <rect x='0' y='0' width='1770' height='1180' rx='30' ry='30' fill='#000' />
+</g>
+
+<g inkscape:label='Year Rulers' inkscape:groupmode='layer' id='layer_yearrulers' stroke-width='1' stroke='#222'>
+  <line x1='10' y1='0' x2='10' y2='1180' stroke-width='2' stroke='#444' />
+    <line x1='30' y1='0' x2='30' y2='1180' />
+    <line x1='51' y1='0' x2='51' y2='1180' />
+    <line x1='72' y1='0' x2='72' y2='1180' />
+    <line x1='93' y1='0' x2='93' y2='1180' />
+    <line x1='114' y1='0' x2='114' y2='1180' />
+    <line x1='135' y1='0' x2='135' y2='1180' />
+    <line x1='155' y1='0' x2='155' y2='1180' />
+    <line x1='176' y1='0' x2='176' y2='1180' />
+    <line x1='197' y1='0' x2='197' y2='1180' />
+    <line x1='218' y1='0' x2='218' y2='1180' />
+    <line x1='239' y1='0' x2='239' y2='1180' />
+  <line x1='260' y1='0' x2='260' y2='1180' stroke-width='2' stroke='#444' />
+    <line x1='280' y1='0' x2='280' y2='1180' />
+    <line x1='301' y1='0' x2='301' y2='1180' />
+    <line x1='322' y1='0' x2='322' y2='1180' />
+    <line x1='343' y1='0' x2='343' y2='1180' />
+    <line x1='364' y1='0' x2='364' y2='1180' />
+    <line x1='385' y1='0' x2='385' y2='1180' />
+    <line x1='405' y1='0' x2='405' y2='1180' />
+    <line x1='426' y1='0' x2='426' y2='1180' />
+    <line x1='447' y1='0' x2='447' y2='1180' />
+    <line x1='468' y1='0' x2='468' y2='1180' />
+    <line x1='489' y1='0' x2='489' y2='1180' />
+  <line x1='510' y1='0' x2='510' y2='1180' stroke-width='2' stroke='#444' />
+    <line x1='530' y1='0' x2='530' y2='1180' />
+    <line x1='551' y1='0' x2='551' y2='1180' />
+    <line x1='572' y1='0' x2='572' y2='1180' />
+    <line x1='593' y1='0' x2='593' y2='1180' />
+    <line x1='614' y1='0' x2='614' y2='1180' />
+    <line x1='635' y1='0' x2='635' y2='1180' />
+    <line x1='655' y1='0' x2='655' y2='1180' />
+    <line x1='676' y1='0' x2='676' y2='1180' />
+    <line x1='697' y1='0' x2='697' y2='1180' />
+    <line x1='718' y1='0' x2='718' y2='1180' />
+    <line x1='739' y1='0' x2='739' y2='1180' />
+  <line x1='760' y1='0' x2='760' y2='1180' stroke-width='2' stroke='#444' />
+    <line x1='780' y1='0' x2='780' y2='1180' />
+    <line x1='801' y1='0' x2='801' y2='1180' />
+    <line x1='822' y1='0' x2='822' y2='1180' />
+    <line x1='843' y1='0' x2='843' y2='1180' />
+    <line x1='864' y1='0' x2='864' y2='1180' />
+    <line x1='885' y1='0' x2='885' y2='1180' />
+    <line x1='905' y1='0' x2='905' y2='1180' />
+    <line x1='926' y1='0' x2='926' y2='1180' />
+    <line x1='947' y1='0' x2='947' y2='1180' />
+    <line x1='968' y1='0' x2='968' y2='1180' />
+    <line x1='989' y1='0' x2='989' y2='1180' />
+  <line x1='1010' y1='0' x2='1010' y2='1180' stroke-width='2' stroke='#444' />
+    <line x1='1030' y1='0' x2='1030' y2='1180' />
+    <line x1='1051' y1='0' x2='1051' y2='1180' />
+    <line x1='1072' y1='0' x2='1072' y2='1180' />
+    <line x1='1093' y1='0' x2='1093' y2='1180' />
+    <line x1='1114' y1='0' x2='1114' y2='1180' />
+    <line x1='1135' y1='0' x2='1135' y2='1180' />
+    <line x1='1155' y1='0' x2='1155' y2='1180' />
+    <line x1='1176' y1='0' x2='1176' y2='1180' />
+    <line x1='1197' y1='0' x2='1197' y2='1180' />
+    <line x1='1218' y1='0' x2='1218' y2='1180' />
+    <line x1='1239' y1='0' x2='1239' y2='1180' />
+  <line x1='1260' y1='0' x2='1260' y2='1180' stroke-width='2' stroke='#444' />
+    <line x1='1280' y1='0' x2='1280' y2='1180' />
+    <line x1='1301' y1='0' x2='1301' y2='1180' />
+    <line x1='1322' y1='0' x2='1322' y2='1180' />
+    <line x1='1343' y1='0' x2='1343' y2='1180' />
+    <line x1='1364' y1='0' x2='1364' y2='1180' />
+    <line x1='1385' y1='0' x2='1385' y2='1180' />
+    <line x1='1405' y1='0' x2='1405' y2='1180' />
+    <line x1='1426' y1='0' x2='1426' y2='1180' />
+    <line x1='1447' y1='0' x2='1447' y2='1180' />
+    <line x1='1468' y1='0' x2='1468' y2='1180' />
+    <line x1='1489' y1='0' x2='1489' y2='1180' />
+  <line x1='1510' y1='0' x2='1510' y2='1180' stroke-width='2' stroke='#444' />
+    <line x1='1530' y1='0' x2='1530' y2='1180' />
+    <line x1='1551' y1='0' x2='1551' y2='1180' />
+    <line x1='1572' y1='0' x2='1572' y2='1180' />
+    <line x1='1593' y1='0' x2='1593' y2='1180' />
+    <line x1='1614' y1='0' x2='1614' y2='1180' />
+    <line x1='1635' y1='0' x2='1635' y2='1180' />
+    <line x1='1655' y1='0' x2='1655' y2='1180' />
+    <line x1='1676' y1='0' x2='1676' y2='1180' />
+    <line x1='1697' y1='0' x2='1697' y2='1180' />
+    <line x1='1718' y1='0' x2='1718' y2='1180' />
+    <line x1='1739' y1='0' x2='1739' y2='1180' />
+  <line x1='1760' y1='0' x2='1760' y2='1180' stroke-width='2' stroke='#444' />
+</g>
+
+<g inkscape:label='Domains' inkscape:groupmode='layer' id='layer_domains' >
+</g>
+
+<g inkscape:label='Connectors' inkscape:groupmode='layer' id='layer_connectors'
+style='opacity:0.6;' >
+  <line x1='706' y1='112' x2='706' y2='290' stroke='#11c' stroke-width='2' stroke-dasharray='2,2' marker-start='url(#__connector_0)' />
+  <line x1='1240' y1='712' x2='1240' y2='890' stroke='#cc1' stroke-width='2' stroke-dasharray='2,2' marker-start='url(#__connector_1)' />
+  <line x1='918' y1='768' x2='918' y2='710' stroke='#c11' stroke-width='2' stroke-dasharray='2,2' marker-start='url(#__connector_2)' />
+  <line x1='381' y1='468' x2='426' y2='410' stroke='#1c1' stroke-width='2' stroke-dasharray='2,2' marker-start='url(#__connector_3)' />
+</g>
+
+<g inkscape:label='Lines' inkscape:groupmode='layer' id='layer_lines'
+ style='fill:none;stroke-width:4;' >
+  <path id='__line_AthenaAdvanced' d='M 534 168 L 534 110 L 706 110' stroke='#11c' marker-end='url(#__stop_AthenaAdvanced)' />
+  <path id='__line_jAthena' d='M 322 348 L 322 170 L 1197 170' stroke='#11c' marker-end='url(#__stop_jAthena)' />
+  <path id='__line_Aurora' d='M 1197 172 L 1197 230 L 1530 230' stroke='#11c' marker-end='url(#__stop_Aurora)' />
+  <path id='__line_Nezumi' d='M 760 288 L 760 230 L 810 230' stroke='#11c' marker-end='url(#__stop_Nezumi)' />
+  <path id='__line_AppleMod' d='M 447 172 L 447 290 L 1759 290' stroke='#11c' />
+  <path id='__line_Freya_040Yor_041' d='M 691 292 L 691 350 L 1425 350' stroke='#11c' marker-end='url(#__stop_Freya_040Yor_041)' />
+  <path id='__line_I-Athena' d='M 260 528 L 260 350 L 364 350' stroke='#1cc' marker-end='url(#__stop_I-Athena)' />
+  <path id='__line_XEVA_047AREBR' d='M 426 408 L 426 350 L 464 350' stroke='#1c1' marker-end='url(#__stop_XEVA_047AREBR)' />
+  <path id='__line_YARE' d='M 279 352 L 279 410 L 728 410' stroke='#1c1' marker-end='url(#__stop_YARE)' />
+  <path id='__line_Odin' d='M 728 412 L 728 470 L 806 470' stroke='#1c1' marker-end='url(#__stop_Odin)' />
+  <path id='__line_PvPGN__YARE' d='M 360 412 L 360 470 L 381 470' stroke='#1c1' marker-end='url(#__stop_PvPGN__YARE)' />
+  <path id='__line_Athena' d='M 218 530 L 760 530' stroke='#ccc' marker-end='url(#__stop_Athena)' />
+  <path id='__line_Weiss' d='M 239 532 L 239 590 L 260 590' stroke='#c11' marker-end='url(#__stop_Weiss)' />
+  <path id='__line_eWeiss' d='M 385 648 L 385 590 L 510 590' stroke='#c11' marker-end='url(#__stop_eWeiss)' />
+  <path id='__line_Fusion' d='M 456 592 L 456 650 L 1010 650' stroke='#c11' marker-end='url(#__stop_Fusion)' />
+  <path id='__line_Prometheus' d='M 864 652 L 864 710 L 1240 710' stroke='#c11' marker-end='url(#__stop_Prometheus)' />
+  <path id='__line_D-Weiss' d='M 260 592 L 260 650 L 405 650' stroke='#c11' marker-end='url(#__stop_D-Weiss)' />
+  <path id='__line_darkWeiss' d='M 385 652 L 385 710 L 510 710' stroke='#c11' marker-end='url(#__stop_darkWeiss)' />
+  <path id='__line_Vidar' d='M 510 712 L 510 770 L 918 770' stroke='#c11' marker-end='url(#__stop_Vidar)' />
+  <path id='__line_Helios-Emu' d='M 1240 890 L 1759 890' stroke='#cc1' />
+  <path id='__line_ASB' d='M 280 1008 L 280 950 L 1051 950' stroke='#c1c' marker-end='url(#__stop_ASB)' />
+  <path id='__line_AEGIS' d='M 30 1010 L 510 1010' stroke='#c1c' marker-end='url(#__stop_AEGIS)' />
+  <path id='__line_UniAegis' d='M 260 1012 L 260 1070 L 447 1070' stroke='#c1c' marker-end='url(#__stop_UniAegis)' />
+</g>
+
+<g inkscape:label='Dots' inkscape:groupmode='layer' id='layer_dots'
+ style='stroke:none;' >
+  <circle id='__dot_AthenaAdvanced' cx='534' cy='110' r='6' fill='#11c' stroke='none' />
+    <circle cx='573' cy='110' r='6' fill='#11c' stroke='none' />
+    <circle cx='589' cy='110' r='6' fill='#11c' stroke='none' />
+  <circle id='__dot_jAthena' cx='322' cy='170' r='6' fill='#11c' stroke='none' />
+    <circle cx='484' cy='170' r='6' fill='#11c' stroke='none' />
+  <circle id='__dot_Aurora' cx='1197' cy='230' r='6' fill='#11c' stroke='none' />
+  <circle id='__dot_Nezumi' cx='760' cy='230' r='6' fill='#11c' stroke='none' />
+    <circle cx='810' cy='230' r='6' fill='#11c' stroke='none' />
+  <circle id='__dot_AppleMod' cx='447' cy='290' r='6' fill='#11c' stroke='none' />
+    <circle cx='479' cy='290' r='6' fill='#11c' stroke='none' />
+    <circle cx='509' cy='290' r='6' fill='#11c' stroke='none' />
+    <circle cx='589' cy='290' r='6' fill='#11c' stroke='none' />
+    <circle cx='650' cy='290' r='6' fill='#11c' stroke='none' />
+    <circle cx='693' cy='290' r='6' fill='#11c' stroke='none' />
+    <circle cx='706' cy='290' r='6' fill='#11c' stroke='none' />
+    <circle cx='743' cy='290' r='6' fill='#11c' stroke='none' />
+    <circle cx='979' cy='290' r='6' fill='#11c' stroke='none' />
+  <circle id='__dot_Freya_040Yor_041' cx='691' cy='350' r='6' fill='#11c' stroke='none' />
+    <circle cx='760' cy='350' r='6' fill='#11c' stroke='none' />
+    <circle cx='1010' cy='350' r='6' fill='#11c' stroke='none' />
+  <circle id='__dot_I-Athena' cx='260' cy='350' r='6' fill='#1cc' stroke='none' />
+    <circle cx='278' cy='350' r='6' fill='#1cc' stroke='none' />
+    <circle cx='292' cy='350' r='6' fill='#1cc' stroke='none' />
+  <circle id='__dot_XEVA_047AREBR' cx='426' cy='350' r='6' fill='#1c1' stroke='none' />
+    <circle cx='464' cy='350' r='6' fill='#1c1' stroke='none' />
+  <circle id='__dot_YARE' cx='279' cy='410' r='6' fill='#1c1' stroke='none' />
+    <circle cx='360' cy='410' r='6' fill='#1c1' stroke='none' />
+    <circle cx='465' cy='410' r='6' fill='#1c1' stroke='none' />
+  <circle id='__dot_Odin' cx='728' cy='470' r='6' fill='#1c1' stroke='none' />
+    <circle cx='806' cy='470' r='6' fill='#1c1' stroke='none' />
+  <circle id='__dot_PvPGN__YARE' cx='360' cy='470' r='6' fill='#1c1' stroke='none' />
+    <circle cx='381' cy='470' r='6' fill='#1c1' stroke='none' />
+  <circle id='__dot_Athena' cx='218' cy='530' r='6' fill='#ccc' stroke='none' />
+    <circle cx='593' cy='530' r='6' fill='#ccc' stroke='none' />
+  <circle id='__dot_Weiss' cx='239' cy='590' r='6' fill='#c11' stroke='none' />
+  <circle id='__dot_eWeiss' cx='385' cy='590' r='6' fill='#c11' stroke='none' />
+    <circle cx='433' cy='590' r='6' fill='#c11' stroke='none' />
+  <circle id='__dot_Fusion' cx='456' cy='650' r='6' fill='#c11' stroke='none' />
+    <circle cx='559' cy='650' r='6' fill='#c11' stroke='none' />
+    <circle cx='778' cy='650' r='6' fill='#c11' stroke='none' />
+    <circle cx='988' cy='650' r='6' fill='#c11' stroke='none' />
+  <circle id='__dot_Prometheus' cx='864' cy='710' r='6' fill='#c11' stroke='none' />
+  <circle id='__dot_D-Weiss' cx='260' cy='650' r='6' fill='#c11' stroke='none' />
+    <circle cx='368' cy='650' r='6' fill='#c11' stroke='none' />
+  <circle id='__dot_darkWeiss' cx='385' cy='710' r='6' fill='#c11' stroke='none' />
+    <circle cx='487' cy='710' r='6' fill='#c11' stroke='none' />
+    <circle cx='810' cy='710' r='6' fill='#c11' stroke='none' />
+  <circle id='__dot_Vidar' cx='510' cy='770' r='6' fill='#c11' stroke='none' />
+    <circle cx='543' cy='770' r='6' fill='#c11' stroke='none' />
+  <circle id='__dot_Helios-Emu' cx='1240' cy='890' r='6' fill='#cc1' stroke='none' />
+  <circle id='__dot_ASB' cx='280' cy='950' r='6' fill='#c1c' stroke='none' />
+    <circle cx='528' cy='950' r='6' fill='#c1c' stroke='none' />
+    <circle cx='971' cy='950' r='6' fill='#c1c' stroke='none' />
+    <circle cx='1043' cy='950' r='6' fill='#c1c' stroke='none' />
+  <circle id='__dot_AEGIS' cx='30' cy='1010' r='6' fill='#c1c' stroke='none' />
+    <circle cx='218' cy='1010' r='6' fill='#c1c' stroke='none' />
+  <circle id='__dot_UniAegis' cx='260' cy='1070' r='6' fill='#c1c' stroke='none' />
+    <circle cx='447' cy='1070' r='6' fill='#c1c' stroke='none' />
+</g>
+
+<g inkscape:label='Icons' inkscape:groupmode='layer' id='layer_icons'>
+</g>
+
+<g inkscape:label='Labels' inkscape:groupmode='layer' id='layer_labels' transform='matrix(0,1,1,0,0,1)'
+ style='font-size:14px;stroke:none;fill:#fff;font-family:Liberation Sans, Arial, Helvetica;-inkscape-font-specification:Liberation Sans, Arial, Helvetica;' >
+  <a xlink:href='http://www.eathena.ws/board/index.php?showtopic=91829'><text x='110' y='526' style='text-anchor:middle;' >AthenaAdvanced</text></a>
+    <a xlink:href='http://sourceforge.net/projects/omniathena/'><text x='110' y='578' style='text-anchor:middle;'>v0.1 -> omniAthena</text></a>
+    <a xlink:href='http://www.eathena.ws/board/index.php?showtopic=91829'><text x='110' y='594' style='text-anchor:middle;'>951</text></a>
+  <a xlink:href='http://sourceforge.net/projects/jathena/'><text x='170' y='314' style='text-anchor:middle;' >jAthena</text></a>
+    <a xlink:href='http://forum.asb-sakray.net/index.php?showtopic=30970'><text x='170' y='489' style='text-anchor:middle;'>1125</text></a>
+  <a xlink:href='http://en.wikipedia.org/wiki/Aurora_%28software%29'><text x='230' y='1189' style='text-anchor:middle;' >Aurora</text></a>
+  <a xlink:href='http://forum.asb-sakray.net/index.php?showtopic=30970'><text x='230' y='752' style='text-anchor:middle;' >Nezumi</text></a>
+    <a xlink:href=''><text x='230' y='815' style='text-anchor:middle;'>0314</text></a>
+  <a xlink:href='http://www.eathena.ws/wiki/index.php/EAthena'><text x='290' y='439' style='text-anchor:middle;' >AppleMod</text></a>
+    <a xlink:href='http://www.eathena.ws/board/index.php?showtopic=91829'><text x='290' y='484' style='text-anchor:middle;'>554a</text></a>
+    <a xlink:href='http://www.eathena.ws/board/index.php?showtopic=91829'><text x='290' y='514' style='text-anchor:middle;'>v659 -> eAthena</text></a>
+    <a xlink:href='http://www.eathena.ws/board/index.php?showtopic=91829'><text x='290' y='594' style='text-anchor:middle;'>951 beta</text></a>
+    <a xlink:href='http://www.eathena.ws/board/index.php?showtopic=91829'><text x='290' y='655' style='text-anchor:middle;'>1.0 RC1</text></a>
+    <a xlink:href='https://ookoo.org/svn/freya/trunk/Changelog.txt'><text x='290' y='698' style='text-anchor:middle;'>1.0 RC4</text></a>
+    <a xlink:href='http://www.eathena.ws/board/index.php?showtopic=91829'><text x='290' y='711' style='text-anchor:middle;'>1.0 RC5</text></a>
+    <a xlink:href='http://www.eathena.ws/board/index.php?showtopic=91829'><text x='290' y='748' style='text-anchor:middle;'>SVN open</text></a>
+    <a xlink:href='http://www.eathena.ws/board/index.php?showtopic=91829'><text x='290' y='984' style='text-anchor:middle;'>Preview Release v1.0</text></a>
+  <a xlink:href='https://ookoo.org/svn/freya/trunk/Changelog.txt'><text x='350' y='683' style='text-anchor:middle;' >Freya(Yor)</text></a>
+    <a xlink:href='http://forum.asb-sakray.net/index.php?showtopic=30970'><text x='350' y='765' style='text-anchor:middle;'>Freya1.0</text></a>
+    <a xlink:href='http://forum.asb-sakray.net/index.php?showtopic=30970'><text x='350' y='1015' style='text-anchor:middle;'>Freya2.0</text></a>
+  <a xlink:href='http://www.eathena.ws/board/index.php?showtopic=91829'><text x='350' y='252' style='text-anchor:middle;' >I-Athena</text></a>
+    <a xlink:href='http://www.eathena.ws/board/index.php?showtopic=91829'><text x='350' y='283' style='text-anchor:middle;'>0128</text></a>
+    <a xlink:href='http://forum.asb-sakray.net/index.php?showtopic=30970'><text x='350' y='297' style='text-anchor:middle;'>0219</text></a>
+  <a xlink:href='http://sourceforge.net/projects/yarelinux/'><text x='350' y='418' style='text-anchor:middle;' >XEVA/AREBR</text></a>
+    <a xlink:href='http://sourceforge.net/projects/royare/'><text x='350' y='469' style='text-anchor:middle;'>v011 alpha</text></a>
+  <a xlink:href='http://sourceforge.net/projects/royare/'><text x='410' y='271' style='text-anchor:middle;' >YARE</text></a>
+    <a xlink:href='http://sourceforge.net/projects/royare/'><text x='410' y='365' style='text-anchor:middle;'>v0.0.2</text></a>
+    <a xlink:href='http://www.eathena.ws/board/index.php?showtopic=91829'><text x='410' y='470' style='text-anchor:middle;'>v1.2.0</text></a>
+  <a xlink:href='http://sourceforge.net/projects/odin-project/files/'><text x='470' y='720' style='text-anchor:middle;' >Odin</text></a>
+    <a xlink:href='http://sourceforge.net/projects/odin-project/files/'><text x='470' y='811' style='text-anchor:middle;'>v1.8</text></a>
+  <a xlink:href='http://sourceforge.net/projects/royare/'><text x='470' y='352' style='text-anchor:middle;' >PvPGN YARE</text></a>
+    <a xlink:href='http://sourceforge.net/projects/royare/'><text x='470' y='386' style='text-anchor:middle;'>v1.1.0</text></a>
+  <a xlink:href='http://www.eathena.ws/board/index.php?showtopic=91829'><text x='530' y='210' style='text-anchor:middle;' >Athena</text></a>
+    <a xlink:href='http://forum.asb-sakray.net/index.php?showtopic=30970'><text x='530' y='598' style='text-anchor:middle;'>0501</text></a>
+  <a xlink:href='http://www.eathena.ws/board/index.php?showtopic=91829'><text x='590' y='231' style='text-anchor:middle;' >Weiss</text></a>
+  <a xlink:href='http://www.mpcforum.com/showthread.php?30807-weiss-server-emulator'><text x='590' y='377' style='text-anchor:middle;' >eWeiss</text></a>
+    <a xlink:href='http://www.eathena.ws/board/index.php?showtopic=91829'><text x='590' y='438' style='text-anchor:middle;'>v.b1</text></a>
+  <a xlink:href='http://sourceforge.net/projects/fusion/'><text x='650' y='448' style='text-anchor:middle;' >Fusion</text></a>
+    <a xlink:href='http://fusion.svn.sourceforge.net/viewvc/fusion/core/trunk/Changelog.txt'><text x='650' y='564' style='text-anchor:middle;'>v1.210</text></a>
+    <a xlink:href='http://fusion.svn.sourceforge.net/viewvc/fusion/core/trunk/Changelog.txt'><text x='650' y='783' style='text-anchor:middle;'>v1.213</text></a>
+    <a xlink:href='http://fusion.svn.sourceforge.net/viewvc/fusion/core/trunk/Changelog.txt'><text x='650' y='993' style='text-anchor:middle;'>v2.0</text></a>
+  <a xlink:href='http://sourceforge.net/projects/prometheusproj/files/'><text x='710' y='856' style='text-anchor:middle;' >Prometheus</text></a>
+  <a xlink:href='http://www.eathena.ws/board/index.php?showtopic=91829'><text x='650' y='252' style='text-anchor:middle;' >D-Weiss</text></a>
+    <a xlink:href='http://www.eathena.ws/board/index.php?showtopic=91829'><text x='650' y='373' style='text-anchor:middle;'>release</text></a>
+  <a xlink:href='http://www.eathena.ws/board/index.php?showtopic=91829'><text x='710' y='377' style='text-anchor:middle;' >darkWeiss</text></a>
+    <a xlink:href='http://www.eathena.ws/board/index.php?showtopic=91829'><text x='710' y='492' style='text-anchor:middle;'>v2.9</text></a>
+    <a xlink:href='http://forum.asb-sakray.net/index.php?showtopic=30970'><text x='710' y='815' style='text-anchor:middle;'>r1700</text></a>
+  <a xlink:href='http://forum.asb-sakray.net/Vidar-Closing-t33419.html'><text x='770' y='502' style='text-anchor:middle;' >Vidar</text></a>
+    <a xlink:href='http://www.eathena.ws/board/index.php?showtopic=91829'><text x='770' y='548' style='text-anchor:middle;'>Beta</text></a>
+  <a xlink:href='http://www.ohloh.net/p/helios/analyses/latest'><text x='890' y='1232' style='text-anchor:middle;' >Helios-Emu</text></a>
+  <a xlink:href='http://forum.asb-sakray.net/index.php'><text x='950' y='272' style='text-anchor:middle;' >ASB</text></a>
+    <a xlink:href='http://forum.asb-sakray.net/ASB-Zone-201-t14010.html'><text x='950' y='533' style='text-anchor:middle;'>ASB 2.0</text></a>
+    <a xlink:href='http://forum.asb-sakray.net/Asb-30-t33979.html'><text x='950' y='976' style='text-anchor:middle;'>ASB 3.0</text></a>
+    <a xlink:href='http://forum.asb-sakray.net/Episode-102-Package-t34484.html'><text x='950' y='1048' style='text-anchor:middle;'>Episode 10.2</text></a>
+  <a xlink:href='http://www.taicomjp.info/forum/viewtopic.php?t=27'><text x='1010' y='22' style='text-anchor:middle;' >AEGIS</text></a>
+    <a xlink:href='http://en.allexperts.com/e/a/ae/aegis_%28ragnarok_online%29.htm'><text x='1010' y='223' style='text-anchor:middle;'>Stolen from cRO</text></a>
+  <a xlink:href='http://keithmiller3000.xanga.com/'><text x='1070' y='252' style='text-anchor:middle;' >UniAegis</text></a>
+    <a xlink:href='http://forum.asb-sakray.net/UniAegis-Support-Area-Discontinued-t10408.html'><text x='1070' y='452' style='text-anchor:middle;'>end</text></a>
+</g>
+
+<g inkscape:label='Yearlines' inkscape:groupmode='layer' id='layer_yearlines' transform='matrix(0,1,1,0,0,1) rotate(90,0,0) translate(0,-1180)'
+ style='stroke:none;fill:url(#__yearline);' >
+  <rect x='0' y='0' rx='5' ry='5' width='1770' height='20' />
+  <rect x='0' y='1160' rx='5' ry='5' width='1770' height='20' />
+  <g style='font-size:17px;stroke:none;fill:#ddd;font-family:Liberation Sans, Arial, Helvetica;-inkscape-font-specification:Liberation Sans, Arial, Helvetica;text-anchor:middle;' >
+    <text x='135' y='16'><tspan>2002</tspan></text>
+    <text x='135' y='1176'><tspan>2002</tspan></text>
+    <text x='385' y='16'><tspan>2003</tspan></text>
+    <text x='385' y='1176'><tspan>2003</tspan></text>
+    <text x='635' y='16'><tspan>2004</tspan></text>
+    <text x='635' y='1176'><tspan>2004</tspan></text>
+    <text x='885' y='16'><tspan>2005</tspan></text>
+    <text x='885' y='1176'><tspan>2005</tspan></text>
+    <text x='1135' y='16'><tspan>2006</tspan></text>
+    <text x='1135' y='1176'><tspan>2006</tspan></text>
+    <text x='1385' y='16'><tspan>2007</tspan></text>
+    <text x='1385' y='1176'><tspan>2007</tspan></text>
+    <text x='1635' y='16'><tspan>2008</tspan></text>
+    <text x='1635' y='1176'><tspan>2008</tspan></text>
+  </g>
+</g>
+</g><!-- END orientation transform -->
+
+<g inkscape:label='Infobox' inkscape:groupmode='layer' id='layer_infobox'
+ style='stroke:none;fill:#FFF;font-family:Liberation Sans, Arial, Helvetica;-inkscape-font-specification:Liberation Sans, Arial, Helvetica;' >
+  <rect x='40' y='40' width='300' height='85' rx='10' ry='10' fill='#000' filter='url(#__infobox_shadow)' opacity='0.6' />
+  <rect x='40' y='40' width='300' height='85' rx='10' ry='10' fill='url(#__infobox_fill)' stroke='url(#__infobox_stroke)' stroke-width='2' />
+  <text x='46' y='61'><tspan style='font-size:18px;font-weight:bold;'>RO server softwares cladogram</tspan></text>
+  <text x='46' y='74'><tspan style='font-size:14px;'></tspan></text>
+  <text x='46' y='92'><tspan style='font-size:14px;'>Timeline chart of emulator births, forks and</tspan></text>
+  <text x='46' y='110'><tspan style='font-size:14px;'>deaths</tspan></text>
+</g>
+
+<!-- BEGIN additional images -->
+
+<g inkscape:label='Included PNG Images' inkscape:groupmode='layer' id='layer_included_png'>
+</g>
+
+<g inkscape:label='Included SVG Images' inkscape:groupmode='layer' id='layer_included_svg'>
+</g>
+
+<!-- END additional images -->
+
+</svg>
