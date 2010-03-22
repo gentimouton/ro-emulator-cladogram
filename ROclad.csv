@@ -26,24 +26,26 @@
 "N","Prometheus","#c11","Fusion","2005.6","2006.12.3",,"http://sourceforge.net/projects/prometheusproj/files/",,,,
 "N","Helios-Emu","#cc1",,"2006.12.3",,,"http://www.ohloh.net/p/helios/analyses/latest",,,,,,,
 
-"N","I-Athena","#1cc","Athena","2003.1","2003.6",,"http://www.eathena.ws/board/index.php?showtopic=91829","0128","2003.1.28","http://www.eathena.ws/board/index.php?showtopic=91829","0219","2003.2.19","http://forum.asb-sakray.net/index.php?showtopic=30970",,,,,
+"N","I-Athena","#1cc","Athena","2003.1","2003.6",,"http://www.eathena.ws/board/index.php?showtopic=91829","v0128","2003.1.28","http://www.eathena.ws/board/index.php?showtopic=91829","v0219","2003.2.19","http://forum.asb-sakray.net/index.php?showtopic=30970",,,,,
 
 "N","YARE","#1c1","I-Athena","2003.1.29","2004.11.16",,"http://sourceforge.net/projects/royare/","v0.0.2","2003.5.26","http://sourceforge.net/projects/royare/","v1.2.0","2003.10.28","http://www.eathena.ws/board/index.php?showtopic=91829",,,,
 "N","XEVA/AREBR","#1c1","YARE","2003.9","2003.10.26",,"http://sourceforge.net/projects/yarelinux/","v011 alpha","2003.10.26","http://sourceforge.net/projects/royare/",,,,,
 "N","PvPGN YARE","#1c1","YARE","2003.5.26","2003.6.26",,"http://sourceforge.net/projects/royare/","v1.1.0","2003.6.26","http://sourceforge.net/projects/royare/",,,,,
-"N","Odin","#1c1","YARE","2004.11.16","2005.3.9",,"http://sourceforge.net/projects/odin-project/files/","v1.8","2005.3.9","http://sourceforge.net/projects/odin-project/files/",,
+"N","Odin","#1c1","YARE","2004.11.16","2005.3.9",,"http://sourceforge.net/projects/odin-project/files/","v1.8","2005.3.9","http://sourceforge.net/projects/odin-project/files/",,,,
 
-"N","jAthena","#11c","I-Athena","2003.4","2006.10",,"http://sourceforge.net/projects/jathena/","1125","2003.11.25","http://forum.asb-sakray.net/index.php?showtopic=30970",,,,,,,,
-"N","AppleMod","#11c","jAthena","2003.10",,,"http://www.eathena.ws/wiki/index.php/EAthena","554a","2003.11.18","http://www.eathena.ws/board/index.php?showtopic=91829","v659 -> eAthena","2003.12.30","http://www.eathena.ws/board/index.php?showtopic=91829","951 beta","2004.4.26","http://www.eathena.ws/board/index.php?showtopic=91829","1.0 RC1","2004.7.23","http://www.eathena.ws/board/index.php?showtopic=91829","1.0 RC4","2004.9.26","https://ookoo.org/svn/freya/trunk/Changelog.txt","1.0 RC5","2004.10.15","http://www.eathena.ws/board/index.php?showtopic=91829","SVN open","2004.12.7","http://www.eathena.ws/board/index.php?showtopic=91829","Preview Release v1.0","2005.11.18","http://www.eathena.ws/board/index.php?showtopic=91829","r6000","2006.4.11","http://svn.eathena.ws/svn/ea/","r10000",2007.3.13","http://svn.eathena.ws/svn/ea/","r12000","2008.1.1","http://svn.eathena.ws/svn/ea/","r14000","2009.8.11","http://svn.eathena.ws/svn/ea/",,,,
+"N","jAthena","#11c","I-Athena","2003.4","2006.10",,"http://sourceforge.net/projects/jathena/","r1125??","2003.11.25","http://forum.asb-sakray.net/index.php?showtopic=30970","r1033","2004.6.24","http://sourceforge.net/projects/jathena/files/","r1111","2005.1.30","http://sourceforge.net/projects/jathena/files/","r1202","2005.5.18","http://sourceforge.net/projects/jathena/files/","r1666","2005.12.1","http://sourceforge.net/projects/jathena/files/","r2060",2006.7.13","http://sourceforge.net/projects/jathena/files/",,,,
+"N","AppleMod","#11c","jAthena","2003.10",,,"http://www.eathena.ws/wiki/index.php/EAthena","r554a","2003.11.18","http://www.eathena.ws/board/index.php?showtopic=91829","r659 -> eAthena","2003.12.30","http://www.eathena.ws/board/index.php?showtopic=91829","r951 beta","2004.4.26","http://www.eathena.ws/board/index.php?showtopic=91829","1.0 RC1","2004.7.23","http://www.eathena.ws/board/index.php?showtopic=91829","1.0 RC4","2004.9.26","https://ookoo.org/svn/freya/trunk/Changelog.txt","1.0 RC5","2004.10.15","http://www.eathena.ws/board/index.php?showtopic=91829","SVN opened","2004.12.7","http://www.eathena.ws/board/index.php?showtopic=91829","Preview Release v1.0","2005.11.18","http://www.eathena.ws/board/index.php?showtopic=91829","r6000","2006.4.11","http://svn.eathena.ws/svn/ea/","r10000",2007.3.13","http://svn.eathena.ws/svn/ea/","r12000","2008.1.1","http://svn.eathena.ws/svn/ea/","r14000","2009.8.11","http://svn.eathena.ws/svn/ea/",,,,
+"N","eAPP","#11c","AppleMod","2005.6","2007.9.4",,"http://www.eathena.ws/board/index.php?showtopic=242624",,,
+"N","Cronus","#11c","AppleMod","2006.3.22",,,"http://sourceforge.net/apps/trac/cronusemulator/changeset/1","r1000","2006.10.26","http://sourceforge.net/apps/trac/cronusemulator/timeline","r2000","2008.8.22","http://sourceforge.net/apps/trac/cronusemulator/timeline",,,,,,
 "N","Freya(Yor)","#11c","AppleMod","2004.9.23","2007.8.30",,"https://ookoo.org/svn/freya/trunk/Changelog.txt","Freya1.0","2005","http://forum.asb-sakray.net/index.php?showtopic=30970","Freya2.0","2006","http://forum.asb-sakray.net/index.php?showtopic=30970",,,,,,,,,
-"N","Nezumi","#11c","AppleMod","2005","2005.3.14",,"http://forum.asb-sakray.net/index.php?showtopic=30970","0314","2005.3.14",,,,
-"N","AthenaAdvanced","#11c","jAthena","2004.2.7","2004.10.14",,"http://www.eathena.ws/board/index.php?showtopic=91829","v0.1 -> omniAthena","2004.4.3","http://sourceforge.net/projects/omniathena/","951","2004.4.26","http://www.eathena.ws/board/index.php?showtopic=91829",,,,,
+"N","Nezumi","#11c","AppleMod","2005","2005.3.14",,"http://forum.asb-sakray.net/index.php?showtopic=30970","r0314","2005.3.14",,,,
+"N","AthenaAdvanced","#11c","jAthena","2004.2.7","2004.10.14",,"http://www.eathena.ws/board/index.php?showtopic=91829","v0.1 -> omniAthena","2004.4.3","http://sourceforge.net/projects/omniathena/","r951","2004.4.26","http://www.eathena.ws/board/index.php?showtopic=91829","merge with eAthena","2004.10.14","http://www.eathena.ws/board/index.php?showtopic=91829",,,,,
 "N","Aurora","#11c","jAthena","2006.10","2008.2",,"http://en.wikipedia.org/wiki/Aurora_%28software%29",,,,,
 
 
-"N","AEGIS","#c1c",,"2002.2","2004",,"http://www.taicomjp.info/forum/viewtopic.php?t=27","Stolen from cRO","2002.11","http://en.allexperts.com/e/a/ae/aegis_%28ragnarok_online%29.htm",,,,
-"N","ASB","#c1c","AEGIS","2003.2","2006.3",,"http://forum.asb-sakray.net/index.php","ASB 2.0","2004.1.28","http://forum.asb-sakray.net/ASB-Zone-201-t14010.html","ASB 3.0","2005.11.6","http://forum.asb-sakray.net/Asb-30-t33979.html","Episode 10.2","2006.2.20","http://forum.asb-sakray.net/Episode-102-Package-t34484.html",,,,
-"N","UniAegis","#c1c","AEGIS","2003","2003.10",,"http://keithmiller3000.xanga.com/","end",2003.10","http://forum.asb-sakray.net/UniAegis-Support-Area-Discontinued-t10408.html",,,
+"N","Official AEGIS","#c1c",,"2002.2",,,"http://www.taicomjp.info/forum/viewtopic.php?t=27","Stolen from cRO","2002.11","http://en.allexperts.com/e/a/ae/aegis_%28ragnarok_online%29.htm","Episode 12.1 leaked","2007.10","http://www.eathena.ws/board/index.php?showtopic=242624",,,,
+"N","ASB","#c1c","Official AEGIS","2003.2","2006.3",,"http://forum.asb-sakray.net/index.php","ASB 2.0","2004.1.28","http://forum.asb-sakray.net/ASB-Zone-201-t14010.html","ASB 3.0","2005.11.6","http://forum.asb-sakray.net/Asb-30-t33979.html","Episode 10.2","2006.2.20","http://forum.asb-sakray.net/Episode-102-Package-t34484.html",,,,
+"N","UniAegis","#c1c","Official AEGIS","2003","2003.10",,"http://keithmiller3000.xanga.com/","end",2003.10","http://forum.asb-sakray.net/UniAegis-Support-Area-Discontinued-t10408.html",,,
 
 ,,,,,,,,,,,,,,
 "#","Connectors",,,,,,,,,,,,,
@@ -53,6 +55,7 @@
 "C","2006.12.3","Prometheus",,"Helios-Emu",2,"#cc1",,,,,
 "C","2005.8.21","Vidar",,"Prometheus",2,"#c11",,,,,
 "C","2003.6.26","PvPGN YARE","2003.9","YARE",2,"#1c1",,,,,
+"C","2006.10","Freya(Yor)",,"Aurora",2,"#11c",,,,,
 
 ,,,,,,,,,,,,,,
 "#","Domains",,,,,,,,,,,,,
